@@ -31,7 +31,6 @@ The goal of this project is to demonstrate the importance of calibration techniq
 
 -   `Anemia.ipynb`: Jupyter Notebook containing the code and analysis.
 -   `SANHANES_3.csv`: Dataset used for the study (not included; replace with your own if necessary).
--   `images/`: Folder containing plots and reliability diagrams (optional, to be generated).
 -   `README.md`: Documentation for the repository.
 
 ------------------------------------------------------------------------
